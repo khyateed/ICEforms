@@ -1,0 +1,27 @@
+@media screen and (min-width: 700px){  
+	fieldset{
+		
+		display: inline;
+	}
+}
+
+*{
+	font-family: futura, sans-serif;
+
+}
+fieldset{
+		background-color: pink;
+}
+button{
+	background-color: green;
+	color: white;
+}
+.accordion__title:hover{
+	background: #333;
+	color: white;
+}
+
+.accordion__content{
+	display: none;
+
+}
